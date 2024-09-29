@@ -1,0 +1,41 @@
+/* .clems{
+    color: red;
+}
+p.error{
+    color: green;
+}
+p.error.end{
+    border: 2px dashed yellow;
+}
+#content{
+    background-color: blue;
+    padding: 20px;
+} */
+ /* div .clems{
+    color: red;
+ } */
+
+ /* a[href="https://www.thewebninja.co.uk"]{
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+ }
+a[href="Best of you"]{
+    background-color: red;
+    border: 2px solid blue;
+} */
+ div.p{
+    color: blueviolet;
+    border: 1px solid gray;
+    margin: 40px;
+ }
+ p{
+    border: inherit;
+    margin: inherit;
+    color: crimson;
+ }
+ p{
+    color: blue;
+ }
